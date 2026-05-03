@@ -16,6 +16,7 @@ function App() {
       <About 
         bio = {user.bio}
         links = {user.links}
+        image = {user.image}
       />
     </div>
   );
